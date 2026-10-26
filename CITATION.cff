@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below"
+title: "Binary Mixture Analyzer: additivity, synergism and antagonism of binary contaminant mixtures on multiple response variables"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+type: software
+authors:
+  - family-names: Lozano
+    given-names: Verónica L.
+keywords:
+  - mixture toxicity
+  - multiple stressors
+  - synergism
+  - antagonism
+  - additive model
+  - ecotoxicology
