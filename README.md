@@ -75,7 +75,7 @@ In the *Design* panel you choose the control code and, for each mixture, which c
 
 ### How to cite
 
-Please cite the software (see `CITATION.cff`): "Lozano, V.L (2026) Binary Mixture Analyzer: additivity, synergism and antagonism of binary contaminant mixtures on multiple response variables" and the classification framework:
+Please cite the software (see `CITATION.cff`): "Lozano, V.L (2026) Binary Mixture Analyzer: additivity, synergism and antagonism of binary contaminant mixtures on multiple response variables DOI: 10.5281/zenodo.23672432" and the classification framework:
 
 > Piggott, J.J., Townsend, C.R. & Matthaei, C.D. (2015). Reconceptualizing synergism and antagonism among multiple stressors. *Ecology and Evolution*, 5(7), 1538–1547. https://doi.org/10.1002/ece3.1465
 
@@ -156,7 +156,7 @@ En el panel *Design* se elige el código del control y, para cada mezcla, qué c
 
 ### Cómo citar
 
-Citar el software (ver `CITATION.cff`): "Lozano, V.L (2026) Binary Mixture Analyzer: additivity, synergism and antagonism of binary contaminant mixtures on multiple response variables" y el marco de clasificación:
+Citar el software (ver `CITATION.cff`): "Lozano, V.L (2026) Binary Mixture Analyzer: additivity, synergism and antagonism of binary contaminant mixtures on multiple response variables DOI: 10.5281/zenodo.23672432" y el marco de clasificación:
 
 > Piggott, J.J., Townsend, C.R. & Matthaei, C.D. (2015). Reconceptualizing synergism and antagonism among multiple stressors. *Ecology and Evolution*, 5(7), 1538–1547. https://doi.org/10.1002/ece3.1465
 
